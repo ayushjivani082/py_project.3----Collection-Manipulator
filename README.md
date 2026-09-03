@@ -2,7 +2,9 @@
 
  
  PROJECT : COLLECTION MANIPULATOR
+ 
 CREAT BY : AYUSH JIVANI
+
 PYTHON LANGUAGE 
 
 A Python-based command-line application designed to manage student records effectively using core Python concepts including custom data structures (Lists, Tuples, Sets, and Dictionaries), string formatting, type casting, and mutability control.
