@@ -74,16 +74,16 @@ Enter your choice: 1
 
 Enter student details:
 Student ID: 101
-Name: Alice
-Age: 20
-Grade: B+
-Date of Birth (YYYY-MM-DD): 2002-05-14
+Name: Ayush
+Age: 18
+Grade: A+
+Date of Birth (YYYY-MM-DD): 06 - 01 - 2009
 Subjects (comma-separated): Math, Science, English
 
 ✓ Student added successfully!
 
 --- Display All Students ---
-ID: 101 | Name: Alice | Age: 20 | Grade: B+ | Subjects: Math, Science, English
+ID: 101 | Name: Ayush | Age: 18 | Grade: A+ | Subjects: Math, Science, English
 ```
 
 
