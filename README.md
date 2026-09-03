@@ -85,17 +85,8 @@ Subjects (comma-separated): Math, Science, English
 --- Display All Students ---
 ID: 101 | Name: Alice | Age: 20 | Grade: B+ | Subjects: Math, Science, English
 ```
----
-🚀 How to Run the Project
-Clone the Repository:
-```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
-   ```
-Run the Application:
-```bash
-   python main.py
-   ```
+
+
 ---
 📝 Assumptions & Notes
 Unique IDs: Each student is assumed to have a unique integer Student ID.
