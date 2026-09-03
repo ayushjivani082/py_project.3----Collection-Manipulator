@@ -1,5 +1,8 @@
 # py_project.3----Collection-Manipulator
 
+
+=========================================PROJECT DETAILS=====================================================
+
  
  PROJECT : COLLECTION MANIPULATOR
 
@@ -11,7 +14,7 @@ CREAT BY : AYUSH JIVANI
 
 
 
-PYTHON LANGUAGE 
+LANGUAGE : PYTHON
 
 
 
