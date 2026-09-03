@@ -1,7 +1,7 @@
 # py_project.3----Collection-Manipulator
 
 
-=========================================PROJECT DETAILS=====================================================
+===========================PROJECT DETAILS==================================
 
  
  PROJECT : COLLECTION MANIPULATOR
