@@ -37,7 +37,7 @@ Mutability vs Immutability: Demonstrating mutable operations on lists/dictionari
 Type Casting & Data Operations: Safe type conversions for integer inputs and record deletion using the `del` keyword.
 ---
 🔗 Quick Links & Resources
-📁 GitHub Repository: https://github.com/ayushjivani082/py_project.3----Collection-Manipulator/blob/main/python_pr.3%20Collection%20Manipulator.py
+📁 GitHub Repository:https://github.com/ayushjivani082/py_project.3----Collection-Manipulator/blob/main/3%20Collection%20Manipulator.py
 
 📹 Demo Video / Explanation: https://drive.google.com/file/d/1nSeP3N9H1N_mDQJ5MOHkB7bULvBecCdo/view?usp=drive_link
 
