@@ -5,15 +5,13 @@
 
 student_records = []          
 student_data = {}             
-subjects_offered = set()    
-
-# WELCOME 
+subjects_offered = set()   
 
 print("=" * 55)
 print("          WELCOME TO THE STUDENT DATA ORGANIZER")
 print("=" * 55)
 
-# ADD STUDENT FUNCTION
+# Add student function
 
 
 def add_student():
@@ -62,7 +60,7 @@ def add_student():
 
     print("\nStudent added successfully!")
 
-# DISPLAY ALL STUDENTS
+# Display all students
 
 
 def display_students():
@@ -91,7 +89,7 @@ def display_students():
 
     
 
-# UPDATE STUDENT 
+# Update student
 
 
 def update_student():
@@ -116,7 +114,7 @@ def update_student():
     if choice == "1":
         new_name = input("Enter new name: ")
         student["name"] = new_name
-        print("Name update successfully!")
+        print("Name updated!")
 
     elif choice == "2":
         new_subject = input("Enter new subject:")
@@ -133,18 +131,18 @@ def update_student():
     elif choice == "3":
         new_age = int(input("Enter new age:"))
         student["age"] = new_age
-        print("age update successfully!")
+        print("age changed!")
 
     elif choice == "4":
         new_grade = input("Enter new grade:")
         student["grade"] = new_grade
-        print("grade update successfully!")
+        print("grade updated!")
     
 
     else:
         print("Invalid choice!")
 
-# DELETE STUDENT 
+# Delete student
 
 def delete_student():
     print("\n--- Delete Student ---")
@@ -166,7 +164,7 @@ def delete_student():
 
     print("Student deleted successfully using del keyword!")
 
-# DISPLAY SUBJECTS 
+# Display subject
 
 def display_subjects():
     print("\n--- Subjects Offered (Unique) ---")
@@ -178,9 +176,6 @@ def display_subjects():
     print("Unique subjects offered by students:")
     for subject in sorted(subjects_offered):
         print("•", subject)
-
-# MAIN MENU
-
 
 while True:
     print("\n" + "=" * 65)
