@@ -120,8 +120,14 @@ def update_student():
 
     elif choice == "2":
         new_subject = input("Enter new subject:")
-        student["subject"] = new_subject
+        subject_list = [sub.strip().title()for sub in new_subject.split(",")]
+        student["subjects"] = subject_list
+
+        for sub in subject_list:
+            subjects_offered.add(sub)
+            
         print("subject update successfully!")
+    
             
         
     elif choice == "3":
